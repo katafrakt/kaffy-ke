@@ -1,3 +1,13 @@
+# Kaffy: Katafrakt's Edition
+
+This is an opinionated fork of [Kaffy](https://github.com/aesmail/kaffy#installation), which I use in my personal projects. It contains some changes that are not present in upstream.
+
+List of applied changes that are not in upstream Kaffy:
+* Added smarter inflector (https://github.com/aesmail/kaffy/pull/233)
+* Added support for recent Phoenix versions (https://github.com/aesmail/kaffy/pull/227)
+
+# Original README below
+
 <img src="https://opencollective.com/kaffy/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
 
 ![What You Get](demos/kaffy_index.png)
