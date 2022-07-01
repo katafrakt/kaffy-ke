@@ -5,6 +5,7 @@ This is an opinionated fork of [Kaffy](https://github.com/aesmail/kaffy#installa
 List of applied changes that are not in upstream Kaffy:
 * Added smarter inflector (https://github.com/aesmail/kaffy/pull/233)
 * Added support for recent Phoenix versions (https://github.com/aesmail/kaffy/pull/227)
+* Dropped support for Elixir version lower than 1.13 and OTP lower than 24
 
 # Original README below
 
